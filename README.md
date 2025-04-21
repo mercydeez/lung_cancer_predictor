@@ -69,6 +69,8 @@ It is NOT a replacement for real medical diagnosis. Always consult licensed prof
 Developed with ❤️ by Atharva Soundankar
 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-soundankar/) • 📅 2025 • India 🇮🇳
 
+---
 
 
-
+## 📜 License
+This project is licensed under the MIT License. Feel free to use, share, and modify with credit!
